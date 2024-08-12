@@ -1,6 +1,10 @@
-## Hi there 👋
+Just a trailblazer
 
-![亮色](https://raw.githubusercontent.com/Welt-liu/Welt-liu/output/github-contribution-grid-snake.svg)
+
+![暗色](https://raw.githubusercontent.com/Welt-liu/Welt-liu/output/github-contribution-grid-snake-dark.svg)
+
+
+
 <!--
 **Welt-liu/Welt-liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
