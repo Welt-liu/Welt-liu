@@ -1,7 +1,7 @@
 Just a trailblazer
 
 
-![暗色](https://raw.githubusercontent.com/Welt-liu/Welt-liu/output/github-contribution-grid-snake-dark.svg)
+![暗色](https://raw.githubusercontent.com/Welt-liu/Welt-liu/output/github-contribution-grid-snake.svg)
 
 
 
