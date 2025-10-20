@@ -1,4 +1,4 @@
-Just a trailblazer
+Per aspera ad astra
 
 
 ![暗色](https://raw.githubusercontent.com/Welt-liu/Welt-liu/output/github-contribution-grid-snake.svg)
